@@ -15,5 +15,10 @@ A blob that sits in your editor and reacts to what you're doing.
 1. Download `noobie-1.0.0.vsix` from this repo
 2. In VS Code or Antigravity IDE:
    `Cmd+Shift+P` → **Extensions: Install from VSIX...** → pick the file
+3. **Restart your editor** — noobie opens automatically on startup
 
-That's it. noobie opens automatically when your editor starts.
+---
+
+## Uninstall
+
+Extensions panel (`Cmd+Shift+X`) → search **noobie** → **Uninstall** → Restart
