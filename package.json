@@ -5,6 +5,7 @@
   "version": "1.0.0",
   "publisher": "jayesh",
   "license": "MIT",
+  "icon": "faces/happy_blush_face.PNG",
   "engines": {
     "vscode": "^1.75.0"
   },
